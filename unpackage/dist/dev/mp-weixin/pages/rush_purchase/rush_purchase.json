@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "淘抢购",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "big-picture": "/components/Big_picture"
+  }
+}

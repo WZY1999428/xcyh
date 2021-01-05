@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "search-history": "/pages/search/history",
+    "goods-item": "/pages/search/goods-list"
+  }
+}

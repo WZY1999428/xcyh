@@ -1,0 +1,56 @@
+.Popup {
+  width: 60vw;
+  min-height: 30vw;
+  position: fixed;
+  left: calc(50% - 30vw);
+  top: calc(50% - 15vw);
+  z-index: 666666;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-animation: show 0.25s;
+          animation: show 0.25s;
+}
+.Popup .popup-text {
+  width: 100%;
+  height: 100%;
+  background-color: #ecf0f1;
+  padding: 20rpx;
+  border-radius: 10rpx;
+  box-shadow: 0 0 10rpx #000000;
+}
+.Popup .popup-text text {
+  font-size: 25rpx;
+  text-align: center;
+}
+@-webkit-keyframes show {
+0% {
+    opacity: 0;
+    -webkit-transform: scale(0);
+            transform: scale(0);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+            transform: scale(1);
+}
+}
+@keyframes show {
+0% {
+    opacity: 0;
+    -webkit-transform: scale(0);
+            transform: scale(0);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+            transform: scale(1);
+}
+}
+

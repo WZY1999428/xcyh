@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "小冲优惠",
+  "usingComponents": {
+    "tag": "/pages/index/tag",
+    "liebiao": "/pages/index/liebiao",
+    "tubiao": "/pages/index/tubiao",
+    "s-pull-scroll": "/components/s-pull-scroll/index",
+    "my-swiper": "/pages/index/swiper",
+    "popup": "/components/Popup"
+  }
+}

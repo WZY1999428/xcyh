@@ -1,0 +1,59 @@
+@-webkit-keyframes loading-data-v-3c0bba53 {
+from {
+    -webkit-transform: rotateZ(0deg);
+            transform: rotateZ(0deg);
+}
+to {
+    -webkit-transform: rotateZ(360deg);
+            transform: rotateZ(360deg);
+}
+}
+@keyframes loading-data-v-3c0bba53 {
+from {
+    -webkit-transform: rotateZ(0deg);
+            transform: rotateZ(0deg);
+}
+to {
+    -webkit-transform: rotateZ(360deg);
+            transform: rotateZ(360deg);
+}
+}
+.goods-list.data-v-3c0bba53 {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+.goods-list .goodsBox.data-v-3c0bba53 {
+  height: 100%;
+  position: absolute;
+  top: 70rpx;
+  padding-bottom: calc(45px + 70rpx);
+}
+.goods-list .goodsBox .hide.data-v-3c0bba53 {
+  visibility: hidden !important;
+}
+.goods-list .goodsBox .show.data-v-3c0bba53 {
+  visibility: visible !important;
+}
+.goods-list .goodsBox .scrollDown.data-v-3c0bba53 {
+  height: 45px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  background-color: #bdc3c7;
+  color: #ecf0f1;
+}
+.goods-list .goodsBox .scrollDown .loading.data-v-3c0bba53 {
+  width: 35rpx;
+  height: 35rpx;
+  -webkit-animation: 1.5s loading-data-v-3c0bba53 infinite linear;
+          animation: 1.5s loading-data-v-3c0bba53 infinite linear;
+  margin-right: 10rpx;
+}
+

@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "liebiao": "/pages/search/liebiao",
+    "tubiao": "/pages/search/tubiao",
+    "operation": "/pages/search/operation",
+    "screen": "/pages/search/screen",
+    "s-pull-scroll": "/components/s-pull-scroll/index",
+    "popup": "/components/Popup"
+  },
+  "component": true
+}

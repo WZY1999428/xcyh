@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/share/share",
+    "pages/search/search",
+    "pages/couponLink/couponLink",
+    "pages/op-goods-list/op-goods-list",
+    "pages/details/details",
+    "pages/fold_up/fold_up",
+    "pages/hot_sale/hot_sale",
+    "pages/rush_purchase/rush_purchase",
+    "pages/comment/comment",
+    "pages/classification/classification"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap39.json"
+}

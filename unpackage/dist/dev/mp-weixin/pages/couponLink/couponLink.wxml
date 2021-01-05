@@ -1,0 +1,1 @@
+<view class="container"><web-view webview-styles="{{webviewStyles}}" src="{{couponLink}}"></web-view></view>

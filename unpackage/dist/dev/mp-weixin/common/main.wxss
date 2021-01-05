@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 2127805 */
+  src: url('//at.alicdn.com/t/font_2127805_y2sz5q0gqk8.eot');
+  src: url('//at.alicdn.com/t/font_2127805_y2sz5q0gqk8.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_2127805_y2sz5q0gqk8.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_2127805_y2sz5q0gqk8.woff') format('woff'),
+  url('//at.alicdn.com/t/font_2127805_y2sz5q0gqk8.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_2127805_y2sz5q0gqk8.svg#iconfont') format('svg');
+}
+text[class*="icon-"],
+view[class*="icon-"],
+button[class*="icon-"],
+rich-text[class*="icon-"]{
+	font-family: "iconfont" !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.icon-99:before {
+  content: "\e6bf";
+}
+.icon-youhuiquan:before {
+  content: "\e644";
+}
+.icon-paihangbang:before {
+  content: "\e609";
+}
+.icon-baicai:before {
+  content: "\e603";
+}
+.icon-qiang:before {
+  content: "\e629";
+}
+.icon-tianmao-:before {
+  content: "\e635";
+}
+.icon-jinqian-fanli:before {
+  content: "\e639";
+}
+.icon-taobao:before {
+  content: "\e615";
+}
+.icon-jiangxu:before {
+  content: "\e64a";
+}
+.icon-shengxu:before {
+  content: "\e64d";
+}
+.icon-xiaoxi:before {
+  content: "\e606";
+}
+.icon-gouwucheman:before {
+  content: "\e600";
+}
+.icon-search:before {
+  content: "\e854";
+}
+.icon-leimupinleifenleileibie:before {
+  content: "\e7f9";
+}
+.icon-home:before {
+  content: "\e619";
+}
+.icon-wodedangxuan:before {
+  content: "\e607";
+}
+.icon-quan:before {
+  content: "\e610";
+}
+.icon-tubiao:before {
+  content: "\e64b";
+}
+.icon-liebiao:before {
+  content: "\e698";
+}
+.icon-baseline-close-px:before {
+  content: "\e616";
+}
+.icon-qingkong:before {
+  content: "\e678";
+}
+.icon-huanyipi:before {
+  content: "\e648";
+}
+.icon-shaixuan:before {
+  content: "\e649";
+}
+.icon-down1:before {
+  content: "\e68f";
+}
+view,
+checkbox,
+radio,
+text,
+scroll-view,
+image,
+button,
+web-view{
+	margin: 0;
+	padding: 0;
+	font-size: 30rpx;
+	box-sizing: border-box;
+	line-height: normal;
+}
+::-webkit-scrollbar {
+	width: 0;
+	height: 0;
+	color: transparent;
+}
+

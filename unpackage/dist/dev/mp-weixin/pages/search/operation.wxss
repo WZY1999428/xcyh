@@ -1,0 +1,106 @@
+.operation.data-v-10662a39 {
+  width: 100%;
+  height: 6%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  position: absolute;
+  position: relative;
+  z-index: 66;
+  background-color: white;
+}
+.operation .active.data-v-10662a39 {
+  color: #e74c3c;
+}
+.operation .active2.data-v-10662a39 {
+  color: #e74c3c !important;
+}
+.operation .icon.data-v-10662a39 {
+  width: 25rpx;
+  height: 25rpx;
+  margin-left: 5rpx;
+}
+.operation .select.data-v-10662a39 {
+  height: 100%;
+  min-width: 15vw;
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 0 20rpx;
+}
+.operation .select .Mask.data-v-10662a39 {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.2);
+  -webkit-animation: fade 0.2s;
+          animation: fade 0.2s;
+}
+.operation .select .Mask .menu.data-v-10662a39 {
+  padding: 10rpx;
+  background-color: white;
+}
+.operation .select .Mask .menu text.data-v-10662a39 {
+  color: #2c3e50;
+  margin: 10rpx 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+          align-items: flex-start;
+}
+.operation .select.data-v-10662a39::after {
+  position: absolute;
+  right: 0;
+  content: "";
+  height: 40%;
+  top: 30%;
+  width: 1px;
+  background-color: #95a5a6;
+}
+.operation .select.data-v-10662a39:active {
+  color: #859299;
+}
+.operation .right.data-v-10662a39 {
+  position: absolute;
+  height: 100%;
+  right: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  min-width: 150rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 0 10rpx;
+}
+.operation .right .icon.data-v-10662a39 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.operation .right .sx.data-v-10662a39 {
+  width: 35rpx;
+  height: 35rpx;
+}
+.operation .right text.data-v-10662a39 {
+  font-size: 25rpx;
+  line-height: 75rpx;
+}
+

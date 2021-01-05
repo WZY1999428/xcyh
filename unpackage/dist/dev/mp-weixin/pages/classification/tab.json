@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "down-class": "/pages/classification/down-class"
+  },
+  "component": true
+}

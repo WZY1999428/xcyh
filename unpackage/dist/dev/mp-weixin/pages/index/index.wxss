@@ -1,0 +1,173 @@
+.index.data-v-57280228 {
+  height: 100vh;
+  position: relative;
+}
+.index .top.data-v-57280228 {
+  position: absolute;
+  right: 10px;
+  top: 80%;
+  z-index: 66;
+}
+.index .search.data-v-57280228 {
+  width: 90vw;
+  position: absolute;
+  top: 20rpx;
+  left: 5vw;
+  height: 70rpx;
+  z-index: 33;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background-color: rgba(245, 245, 245, 0.5);
+}
+.index .search .icon-search.data-v-57280228 {
+  margin: 0 30rpx;
+  color: #ffffff;
+}
+.index .search .hotkey.data-v-57280228 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  color: #ffffff;
+}
+.index .container.data-v-57280228 {
+  height: 100%;
+  background-color: #d5d5d5;
+  overflow-y: auto;
+}
+.index .container .rexiao.data-v-57280228 {
+  background-color: white;
+}
+.index .container .rexiao .title.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 10rpx;
+  font-size: 25rpx;
+  border-bottom: 1px solid #cacaca;
+  height: 80rpx;
+  color: red;
+}
+.index .container .rexiao .title view.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.index .container .rexiao .title view .icon.data-v-57280228 {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 10rpx;
+}
+.index .container .rexiao .scroll.data-v-57280228 {
+  height: 100%;
+  padding: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background-color: white;
+}
+.index .container .rexiao .scroll .rx-item.data-v-57280228 {
+  margin-right: 10rpx;
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  width: 25vw;
+  height: calc(100% - 80rpx);
+  overflow: hidden;
+}
+.index .container .rexiao .scroll .rx-item image.data-v-57280228 {
+  width: 25vw;
+  height: 25vw;
+  border: 1px solid #e8e8e8;
+  margin: 5rpx 0;
+}
+.index .container .rexiao .scroll .rx-item .content.data-v-57280228 {
+  width: 100%;
+  height: 70rpx;
+  font-size: 25rpx;
+  color: #474747;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.index .container .rexiao .scroll .rx-item .tags .tag.data-v-57280228 {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 25rpx;
+  color: red;
+  text-align: center;
+  margin: 5rpx 0;
+}
+.index .container .rexiao .scroll .rx-item .tags .tag2.data-v-57280228 {
+  border: 1px solid red;
+  border-radius: 30rpx;
+  width: 180rpx;
+  padding: 5rpx 0;
+}
+.index .container .selected.data-v-57280228 {
+  margin-top: 5rpx;
+  background-color: white;
+}
+.index .container .selected .title.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 10rpx;
+  font-size: 25rpx;
+  border-bottom: 1px solid #cacaca;
+  height: 80rpx;
+  color: red;
+}
+.index .container .selected .title text.data-v-57280228,
+.index .container .selected .title view.data-v-57280228 {
+  font-size: 25rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: red;
+}
+.index .container .selected .title view.data-v-57280228 {
+  color: red;
+}
+.index .container .selected .title .icon.data-v-57280228 {
+  margin-right: 5rpx;
+  width: 40rpx;
+  height: 40rpx;
+  position: relative;
+  color: red;
+}
+

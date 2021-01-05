@@ -1,0 +1,1 @@
+<view class="hot_sale"><s-pull-scroll class="container vue-ref" vue-id="215df1c0-1" pullDown="{{Refresh}}" upFinishText="我是有底线的···" backTop="{{backTop}}" pullUp="{{loadData}}" data-ref="pullScroll" bind:__l="__l" vue-slots="{{['default']}}"><big-picture vue-id="{{('215df1c0-2')+','+('215df1c0-1')}}" goods_list="{{goods_list}}" bind:__l="__l"></big-picture></s-pull-scroll></view>

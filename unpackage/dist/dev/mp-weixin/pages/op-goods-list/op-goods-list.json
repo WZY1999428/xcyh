@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "5.9区",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "s-pull-scroll": "/components/s-pull-scroll/index",
+    "popup": "/components/Popup"
+  }
+}

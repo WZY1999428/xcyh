@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///D:/小冲优惠/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA,wCAAmB;AACnB;AACA,+F;AACAA,UAAU,CAACC,eAAD,CAAV,C","file":"pages/screen/screen.js","sourcesContent":["import 'uni-pages';import '@dcloudio/uni-stat';\nimport Vue from 'vue'\nimport Page from './pages/screen/screen.vue'\ncreatePage(Page)"],"sourceRoot":""}
